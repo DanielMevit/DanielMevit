@@ -5,45 +5,45 @@
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![Adobe Creative Suite](https://img.shields.io/badge/-Adobe%20Creative%20Suite-FF0000?style=flat-square&logo=adobe&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-A259FF?style=flat-square&logo=figma&logoColor=white)
 
-> I'm not a developer — I'm a designer who uses AI agents to build the tools I actually need.
+> I'm not a developer -- I'm a designer who uses AI agents to build the tools I actually need.
 
 ## Current Projects
 
-- 🪟 **[Floato](https://github.com/DanielMevit/Floato)** — C# WPF Windows desktop tray utility for window management — opacity, always-on-top, PiP, click-through, anchors, grouping, hotkeys, visual effects
-- 🎙️ **[Eqho](https://github.com/DanielMevit/Eqho)** — Always-on voice-to-text dictation. faster-whisper, GPU-accelerated, local-only
-- 🖨️ **[PressReady](https://github.com/DanielMevit/PressReady)** — Print preparation utility for creating final, press-ready PDFs
-- 🎨 **[Dither FX 1](https://github.com/DanielMevit/Dither-FX-1)** — Photoshop UXP dithering plugin with 35 algorithms
-- 🌐 **[danielmevit.com](http://danielmevit.com)** — Personal portfolio built with Astro
+- 🪟 **[Floato](https://github.com/DanielMevit/Floato)** -- C# WPF Windows desktop tray utility for window management -- opacity, always-on-top, PiP, click-through, anchors, grouping, hotkeys, visual effects
+- 🎙️ **[Eqho](https://github.com/DanielMevit/Eqho)** -- Always-on voice-to-text dictation. faster-whisper, GPU-accelerated, local-only
+- 🖨️ **[PressReady](https://github.com/DanielMevit/PressReady)** -- Print preparation utility for creating final, press-ready PDFs
+- 🎨 **[Dither FX 1](https://github.com/DanielMevit/Dither-FX-1)** -- Photoshop UXP dithering plugin with 35 algorithms
+- 🌐 **[danielmevit.com](http://danielmevit.com)** -- Personal portfolio
 
 ## What I'm Doing
 
-- **Designing across mediums** — Motion, 3D, UI, AI-assisted visuals — depth over specialization
-- **Building tools with AI** — Using Claude as my primary coding agent to create utilities that fit my workflow
-- **Living the WIP philosophy** — Everything is in progress, nothing is ever finished — [@mevit.wip](https://instagram.com/mevit.wip)
+- **Designing across mediums** -- Graphic design, motion, 3D, UI, AI-assisted visuals -- depth over specialization
+- **Building tools with AI** -- Using Claude as my primary coding agent to create utilities that fit my workflow
+- **Living the WIP philosophy** -- Everything is in progress, nothing is ever finished -- [@mevit.wip](https://instagram.com/mevit.wip)
 
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-@danielmevit-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/danielmevit)
 [![YouTube](https://img.shields.io/badge/-@danielmevit-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@danielmevit)
 [![Instagram](https://img.shields.io/badge/-danielmevit-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/danielmevit)
-[![Website](https://img.shields.io/badge/-danielmevit.com-000000?style=flat-square&logo=astro&logoColor=white)](http://danielmevit.com)
+[![Website](https://img.shields.io/badge/-danielmevit.com-000000?style=flat-square&logo=google-chrome&logoColor=white)](http://danielmevit.com)
 [![LinkedIn](https://img.shields.io/badge/-Daniel_Mevit-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielmitev)
+[![Linktree](https://img.shields.io/badge/-Linktree-43E55E?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/danielmevit)
 
----
+--
 
 ### Philosophy
 
 > "Do what you love, not what's expected."
 
-*I was born at the right time to use these tools. AI didn't replace my eye or my taste — it extended my reach.*
-
 <details>
 <summary>Random Facts</summary>
 
 - I operate in two modes: creative chaos and precise structure
-- Self-taught everything — no shortcuts, no inherited network, just obsession and compound interest
+- Self-taught everything -- no shortcuts, no inherited network, just obsession and compound interest
 - Balkan roots shaped my eye and my work ethic
+- Made an [AI album](https://tr.ee/URjo78EDK-) -- an experiment from a specific moment in time that already sounds like a different era
 
 </details>

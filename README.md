@@ -3,7 +3,7 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![Adobe Creative Suite](https://img.shields.io/badge/-Adobe%20Creative%20Suite-FF0000?style=flat-square&logo=adobe&logoColor=white)
+![Adobe Creative Suite](https://img.shields.io/badge/-Adobe%20Creative%20Suite-FF0000?style=flat-square&logo=adobecreativecloud&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-A259FF?style=flat-square&logo=figma&logoColor=white)
 
@@ -15,7 +15,7 @@
 - 🎙️ **[Eqho](https://github.com/DanielMevit/Eqho)** -- Always-on voice-to-text dictation. faster-whisper, GPU-accelerated, local-only
 - 🖨️ **[PressReady](https://github.com/DanielMevit/PressReady)** -- Print preparation utility for creating final, press-ready PDFs
 - 🎨 **[Dither FX 1](https://github.com/DanielMevit/Dither-FX-1)** -- Photoshop UXP dithering plugin with 35 algorithms
-- 🌐 **[danielmevit.com](http://danielmevit.com)** -- Personal portfolio
+
 
 ## What I'm Doing
 

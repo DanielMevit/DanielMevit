@@ -3,7 +3,7 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![Adobe Creative Suite](https://img.shields.io/badge/-Adobe%20Creative%20Suite-FF0000?style=flat-square&logo=adobe&logoColor=white)
+![Adobe Creative Suite](https://img.shields.io/badge/-Adobe%20Creative%20Suite-FF0000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMy45NjYgMjIuNjI0bC0xLjY5LTQuMjgxSDguMTIybDMuODkyLTkuMTQ0IDUuNjYyIDEzLjQyNWgtMy43MXptLjg5My0yLjA5MkwxOC41ODkgMTJIMjRMMTQuODU5IDIwLjUzMnpNMCAxMmw1LjQxMS04LjUzMmg1LjEzNUw1LjU0NiAxMkgweiIvPjwvc3ZnPg==)
 ![Blender](https://img.shields.io/badge/-Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-A259FF?style=flat-square&logo=figma&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
@@ -29,7 +29,7 @@
 [![YouTube](https://img.shields.io/badge/-@danielmevit-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@danielmevit)
 [![Instagram](https://img.shields.io/badge/-danielmevit-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/danielmevit)
 [![Website](https://img.shields.io/badge/-danielmevit.com-000000?style=flat-square&logo=google-chrome&logoColor=white)](http://danielmevit.com)
-[![LinkedIn](https://img.shields.io/badge/-Daniel_Mevit-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielmitev)
+[![LinkedIn](https://img.shields.io/badge/-Daniel_Mevit-0A66C2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/danielmitev)
 [![Linktree](https://img.shields.io/badge/-Linktree-43E55E?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/danielmevit)
 
 --

@@ -23,16 +23,6 @@
 - **Building tools with AI** -- Using Claude as my primary coding agent to create utilities that fit my workflow
 - **Living the WIP philosophy** -- Everything is in progress, nothing is ever finished - [![Instagram](https://img.shields.io/badge/-@mevit.wip-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mevit.wip)
 
-## Connect
-
-[![Twitter](https://img.shields.io/badge/-@danielmevit-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/danielmevit)
-[![YouTube](https://img.shields.io/badge/-@danielmevit-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@danielmevit)
-[![Instagram](https://img.shields.io/badge/-danielmevit-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/danielmevit)
-[![Website](https://img.shields.io/badge/-danielmevit.com-000000?style=flat-square&logo=google-chrome&logoColor=white)](http://danielmevit.com)
-[![LinkedIn](https://img.shields.io/badge/-Daniel_Mevit-0A66C2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/danielmitev)
-[![Linktree](https://img.shields.io/badge/-Linktree-43E55E?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/danielmevit)
-
---
 
 ### Philosophy
 
@@ -47,3 +37,12 @@
 - Made an [AI album](https://tr.ee/URjo78EDK-) -- an experiment from a specific moment in time that already sounds like a different era
 
 </details>
+
+## Connect
+
+[![Twitter](https://img.shields.io/badge/-@danielmevit-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/danielmevit)
+[![YouTube](https://img.shields.io/badge/-@danielmevit-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@danielmevit)
+[![Instagram](https://img.shields.io/badge/-danielmevit-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/danielmevit)
+[![Website](https://img.shields.io/badge/-danielmevit.com-000000?style=flat-square&logo=google-chrome&logoColor=white)](http://danielmevit.com)
+[![LinkedIn](https://img.shields.io/badge/-Daniel_Mevit-0A66C2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/danielmitev)
+[![Linktree](https://img.shields.io/badge/-Linktree-43E55E?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/danielmevit)

@@ -11,10 +11,10 @@
 
 ## Current Projects
 
-- 🪟 **Floato** — C# WPF Windows desktop tray utility for window management — opacity, always-on-top, PiP, click-through, anchors, grouping, hotkeys, visual effects *(private)*
+- 🪟 **[Floato](https://github.com/DanielMevit/Floato)** — C# WPF Windows desktop tray utility for window management — opacity, always-on-top, PiP, click-through, anchors, grouping, hotkeys, visual effects
 - 🎙️ **[Eqho](https://github.com/DanielMevit/Eqho)** — Always-on voice-to-text dictation. faster-whisper, GPU-accelerated, local-only
 - 🖨️ **[PressReady](https://github.com/DanielMevit/PressReady)** — Print preparation utility for creating final, press-ready PDFs
-- 🎨 **Dither FX 1** — Photoshop UXP dithering plugin with 35 algorithms *(private)*
+- 🎨 **[Dither FX 1](https://github.com/DanielMevit/Dither-FX-1)** — Photoshop UXP dithering plugin with 35 algorithms
 - 🌐 **[danielmevit.com](http://danielmevit.com)** — Personal portfolio built with Astro
 
 ## What I'm Doing

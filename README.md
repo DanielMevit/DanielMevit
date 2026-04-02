@@ -19,9 +19,9 @@
 
 ## What I'm Doing
 
-- **Designing across mediums** - Graphic design, motion, 3D, UI, AI-assisted visuals -- depth over specialization
-- **Building tools with AI** - Using Claude as my primary coding agent to create utilities that fit my workflow
-- **Living the WIP philosophy** - Everything is in progress, nothing is ever finished -- [@mevit.wip](https://instagram.com/mevit.wip)
+- **Designing across mediums** -- Graphic design, motion, 3D, UI, AI-assisted visuals - depth over specialization
+- **Building tools with AI** -- Using Claude as my primary coding agent to create utilities that fit my workflow
+- **Living the WIP philosophy** -- Everything is in progress, nothing is ever finished - [@mevit.wip](https://instagram.com/mevit.wip)
 
 ## Connect
 

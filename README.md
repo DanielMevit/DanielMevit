@@ -10,7 +10,7 @@
 
 > I'm not a developer -- I'm a designer who uses AI agents to build the tools I actually need.
 
-## Current Projects
+## Current Projects (WIPs)
 
 - 🎙️ **[Eqho](https://github.com/DanielMevit/Eqho)** -- Always-on voice-to-text dictation. faster-whisper, GPU-accelerated, local-only
 - 🪟 **[Floato](https://github.com/DanielMevit/Floato)** -- C# WPF Windows desktop tray utility for window management - opacity, always-on-top, PiP, click-through, anchors, grouping, hotkeys, visual effects

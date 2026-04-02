@@ -29,7 +29,7 @@
 [![YouTube](https://img.shields.io/badge/-@danielmevit-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@danielmevit)
 [![Instagram](https://img.shields.io/badge/-danielmevit-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/danielmevit)
 [![Website](https://img.shields.io/badge/-danielmevit.com-000000?style=flat-square&logo=google-chrome&logoColor=white)](http://danielmevit.com)
-[![LinkedIn](https://img.shields.io/badge/-Daniel_Mevit-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielmitev)
+[![LinkedIn](https://img.shields.io/badge/-Daniel_Mevit-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielmitev)
 [![Linktree](https://img.shields.io/badge/-Linktree-43E55E?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/danielmevit)
 
 --

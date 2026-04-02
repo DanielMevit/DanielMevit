@@ -12,17 +12,16 @@
 
 ## Current Projects
 
-- 🎙️ **[Eqho](https://github.com/DanielMevit/Eqho)** -- Always-on voice-to-text dictation. faster-whisper, GPU-accelerated, local-only
-- 🪟 **[Floato](https://github.com/DanielMevit/Floato)** -- C# WPF Windows desktop tray utility for window management -- opacity, always-on-top, PiP, click-through, anchors, grouping, hotkeys, visual effects
-- 🖨️ **[PressReady](https://github.com/DanielMevit/PressReady)** -- Print preparation utility for creating final, press-ready PDFs
-- 🎨 **[Dither FX 1](https://github.com/DanielMevit/Dither-FX-1)** -- Photoshop UXP dithering plugin with 35 algorithms
-
+- 🎙️ **[Eqho](https://github.com/DanielMevit/Eqho)** - Always-on voice-to-text dictation. faster-whisper, GPU-accelerated, local-only
+- 🪟 **[Floato](https://github.com/DanielMevit/Floato)** - C# WPF Windows desktop tray utility for window management - opacity, always-on-top, PiP, click-through, anchors, grouping, hotkeys, visual effects
+- 🖨️ **[PressReady](https://github.com/DanielMevit/PressReady)** - Print preparation utility for creating final, press-ready PDFs
+- 🎨 **[Dither FX 1](https://github.com/DanielMevit/Dither-FX-1)** - Photoshop UXP dithering plugin with 35 algorithms
 
 ## What I'm Doing
 
-- **Designing across mediums** -- Graphic design, motion, 3D, UI, AI-assisted visuals -- depth over specialization
-- **Building tools with AI** -- Using Claude as my primary coding agent to create utilities that fit my workflow
-- **Living the WIP philosophy** -- Everything is in progress, nothing is ever finished -- [@mevit.wip](https://instagram.com/mevit.wip)
+- **Designing across mediums** - Graphic design, motion, 3D, UI, AI-assisted visuals -- depth over specialization
+- **Building tools with AI** - Using Claude as my primary coding agent to create utilities that fit my workflow
+- **Living the WIP philosophy** - Everything is in progress, nothing is ever finished -- [@mevit.wip](https://instagram.com/mevit.wip)
 
 ## Connect
 
@@ -43,8 +42,8 @@
 <summary>Random Facts</summary>
 
 - I operate in two modes: creative chaos and precise structure
-- Self-taught everything -- no shortcuts, no inherited network, just obsession and compound interest
+- Self-taught everything - no shortcuts, no inherited network, just obsession and compound interest
 - Balkan roots shaped my eye and my work ethic
-- Made an [AI album](https://tr.ee/URjo78EDK-) -- an experiment from a specific moment in time that already sounds like a different era
+- Made an [AI album](https://tr.ee/URjo78EDK-) - an experiment from a specific moment in time that already sounds like a different era
 
 </details>

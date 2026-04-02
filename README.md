@@ -12,10 +12,10 @@
 
 ## Current Projects
 
-- 🎙️ **[Eqho](https://github.com/DanielMevit/Eqho)** - Always-on voice-to-text dictation. faster-whisper, GPU-accelerated, local-only
-- 🪟 **[Floato](https://github.com/DanielMevit/Floato)** - C# WPF Windows desktop tray utility for window management - opacity, always-on-top, PiP, click-through, anchors, grouping, hotkeys, visual effects
-- 🖨️ **[PressReady](https://github.com/DanielMevit/PressReady)** - Print preparation utility for creating final, press-ready PDFs
-- 🎨 **[Dither FX 1](https://github.com/DanielMevit/Dither-FX-1)** - Photoshop UXP dithering plugin with 35 algorithms
+- 🎙️ **[Eqho](https://github.com/DanielMevit/Eqho)** -- Always-on voice-to-text dictation. faster-whisper, GPU-accelerated, local-only
+- 🪟 **[Floato](https://github.com/DanielMevit/Floato)** -- C# WPF Windows desktop tray utility for window management - opacity, always-on-top, PiP, click-through, anchors, grouping, hotkeys, visual effects
+- 🖨️ **[PressReady](https://github.com/DanielMevit/PressReady)** -- Print preparation utility for creating final, press-ready PDFs
+- 🎨 **[Dither FX 1](https://github.com/DanielMevit/Dither-FX-1)** -- Photoshop UXP dithering plugin with 35 algorithms
 
 ## What I'm Doing
 
@@ -41,9 +41,9 @@
 <details>
 <summary>Random Facts</summary>
 
-- I operate in two modes: creative chaos and precise structure
-- Self-taught everything - no shortcuts, no inherited network, just obsession and compound interest
+- I operate in two modes -- creative chaos and precise structure
+- Self-taught everything -- no shortcuts, no inherited network, just obsession and compound interest
 - Balkan roots shaped my eye and my work ethic
-- Made an [AI album](https://tr.ee/URjo78EDK-) - an experiment from a specific moment in time that already sounds like a different era
+- Made an [AI album](https://tr.ee/URjo78EDK-) -- an experiment from a specific moment in time that already sounds like a different era
 
 </details>
